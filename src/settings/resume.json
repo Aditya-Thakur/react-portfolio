@@ -5,7 +5,7 @@
         "email": "adityathakur532@gmail.com",
         "phone": "(+91) 903-2185927",
         "picture": "mt.png",
-        "x_title": "Hello, I'm",
+        "x_title": "Namaste, I'm",
         "job1": "Designer",
         "job2": "Developer",
         "description": "Greetings, I'm Aditya Thakur, a Web Developer based from the India. I love all things technical. Talk soon!",
@@ -23,25 +23,25 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "adityathakur532@gmail.com",
+                "username": "Aditya Thakur",
                 "url": "mailto:adityathakur532@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
+                "username": "aditya532",
                 "url": "https://www.linkedin.com/in/aditya532/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "Aditya",
+                "username": "aditya-thakur",
                 "url": "https://github.com/aditya-thakur",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "aditya",
+                "username": "aditya-thakur",
                 "url": "https://github.com/aditya-thakur",
                 "x_icon": "fab fa-gitlab"
             },
