@@ -1,59 +1,59 @@
 {
     "basics": {
-        "name": "Mark Tan",
+        "name": "Aditya Thakur",
         "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
+        "email": "adityathakur532@gmail.com",
+        "phone": "(+91) 903-2185927",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
         "job1": "Designer",
         "job2": "Developer",
-        "description": "Greetings, I'm Mark Tan, a Web Developer based from the Philippines. I love all things technical. Talk soon!",
-        "summary": "based in Angeles, Philippines.",
+        "description": "Greetings, I'm Aditya Thakur, a Web Developer based from the India. I love all things technical. Talk soon!",
+        "summary": "based in Darbhanga, Bihar.",
         "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://mctan.dev",
+        "url": "https://adityathakur.xyz",
         "location": {
-            "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "address": "Ranipur",
+            "postalCode": "846005",
+            "city": "Darbhanga",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Bihar"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "adityathakur532@gmail.com",
+                "url": "mailto:adityathakur532@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
                 "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "url": "https://www.linkedin.com/in/aditya532/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "Aditya",
+                "url": "https://github.com/aditya-thakur",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
+                "username": "aditya",
+                "url": "https://github.com/aditya-thakur",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "Aditya Thakur",
+                "url": "https://t.me/adityathakur532",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "adityathakur#2654",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
@@ -61,35 +61,35 @@
     },
     "work": [
         {
-            "company": "Company",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "highlights": ["Started the company"]
+            "company": "Publicis Sapient",
+            "position": "Associate",
+            "website": "https://www.publicissapient.com/",
+            "startDate": "2022-07-01",
+            "endDate": "Ongoing",
+            "summary": "Coming Soon",
+            "highlights": ["Coming Soon"]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
+            "organization": "Jigyasa",
+            "position": "Secretary",
+            "website": "",
+            "startDate": "2015-01-01",
+            "endDate": "2018-01-01",
+            "summary": "",
             "highlights": ["Awarded 'Volunteer of the Month'"]
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "area": "Software Development",
+            "institution": "MAKAUT",
+            "area": "Information Technology",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "startDate": "2015-08-01",
+            "endDate": "2019-06-01",
+            "gpa": "8.1",
+            "courses": ["Programming Languages","Cyber Security", "Networking", "Computer Architecture", "Computer Organisation", "Data Structures & Algorithms"]
         }
     ],
     "awards": [
@@ -118,7 +118,7 @@
     ],
     "languages": [
         {
-            "language": "German",
+            "language": "Hindi",
             "fluency": "Native speaker"
         },
         {
@@ -126,20 +126,17 @@
             "fluency": "Fluent speaker"
         },
         {
-            "language": "French",
+            "language": "Bengali",
             "fluency": "Good knowledge"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
+            "name": "Hindi Poetry",
+            "keywords": ["Poems", "Shayari"]
         }
     ],
     "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference..."
-        }
+     
     ]
 }
