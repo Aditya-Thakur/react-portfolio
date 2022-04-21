@@ -31,14 +31,14 @@ export const FooterText = () => {
     <Link
       color='inherit'
       underline='none'
-      href='https://github.com/sponsors/JoHoop'
+      href='https://github.com/taniyow'
       target='_blank'
       rel='noopener noreferrer'
       className={classes.footerText}
     >
       <HeartIcon />
       <Typography variant='body1'>
-        <TextDecrypt text={' Sponsor'} />
+        <TextDecrypt text={' Credit'} />
       </Typography>
     </Link>
   );
