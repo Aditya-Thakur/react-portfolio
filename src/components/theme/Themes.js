@@ -1,4 +1,4 @@
-import { createMuiTheme, responsiveFontSizes } from '@material-ui/core';
+import { createTheme, responsiveFontSizes } from '@material-ui/core';
 import Settings from '../../settings/settings.json';
 
 export const primary = `${Settings.colors.primary}`;
@@ -7,7 +7,7 @@ export const black = `${Settings.colors.black}`;
 export const white = `${Settings.colors.white}`;
 
 export const LightTheme = responsiveFontSizes(
-  createMuiTheme({
+  createTheme({
     palette: {
       type: 'light',
       primary: {
@@ -99,7 +99,7 @@ export const LightTheme = responsiveFontSizes(
 );
 
 export const DarkTheme = responsiveFontSizes(
-  createMuiTheme({
+  createTheme({
     palette: {
       type: 'dark',
       primary: {

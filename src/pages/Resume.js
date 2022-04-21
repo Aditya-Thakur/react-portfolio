@@ -1,7 +1,10 @@
 import React from "react";
+import DisplacementSphere from "../components/background/DisplacementSphere";
 
 const Resume = () => {
-    return <div>Resume...</div>;
+    return <>
+    <DisplacementSphere />
+    </>;
 };
 
 export {Resume as default}

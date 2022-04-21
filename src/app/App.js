@@ -21,8 +21,12 @@ export const App = () => {
                 <HelmetMeta />
                 <Switch>
                     <Route path="/" exact component={Home} />
-                    <Route path="/resume" component={Resume} />
-                    <Route path="*" component={PageNotFound} />
+                    <React.Suspense fallback={<>...</>}> ̰
+                        <Route path="/resume" component={Resume} />
+                    </React.Suspense>
+                    <React.Suspense fallback={<>...</>}>
+                        <Route path="*" component={PageNotFound} />
+                    </React.Suspense>
                 </Switch>
             </Router>
         </ThemeProvider>

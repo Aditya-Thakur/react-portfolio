@@ -21,10 +21,10 @@ export const Content = () => {
     return (
         <Container component="main" className={`${classes.main}`} maxWidth="sm">
             <Typography variant="h5" component="h2">
-                <TextDecrypt text={`${FirstName} ${LastName}`} />
+                <TextDecrypt text={`${Resume.basics.x_title} ${FirstName} ${LastName}`} />
             </Typography>
             <Typography variant="h2" component="h1" gutterBottom>
-                <TextDecrypt text={`${Resume.basics.job1} + `} />
+                <TextDecrypt text={`${Resume.basics.job1} & `} />
                 <TextDecrypt text={`${Resume.basics.job2}`} />
             </Typography>
         </Container>
