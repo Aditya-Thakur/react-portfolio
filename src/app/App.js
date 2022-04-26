@@ -22,7 +22,7 @@ export const App = () => {
                 <Switch>
                     <Route path="/" exact component={Home} />
                     <React.Suspense fallback={<>...</>}> ̰
-                        <Route path="/resume" component={Resume} />
+                        <Route path="/resume" exact component={Resume} />
                     </React.Suspense>
                     <React.Suspense fallback={<>...</>}>
                         <Route path="*" component={PageNotFound} />
