@@ -79,8 +79,8 @@ export const TextDecrypt = (props) => {
 
     return (
         <p>
-            {result}
-            {" "}
+          {result}
+          {" "}
         </p>
     );
 };

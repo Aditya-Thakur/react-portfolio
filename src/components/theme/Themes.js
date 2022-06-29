@@ -26,14 +26,20 @@ export const LightTheme = responsiveFontSizes(
     typography: {
       fontSize: 16,
       htmlFontSize: 16,
+      h1: {
+        fontWeight: 500,
+      },
       h2: {
+        fontWeight: 500,
+      },
+      h3: {
         fontWeight: 500,
       },
       h5: {
         fontWeight: 500,
         fontFamily: 'Roboto Mono, monospace',
       },
-      body1: {
+      body: {
         fontWeight: 500,
         fontFamily: 'Roboto Mono, monospace',
       },
@@ -91,7 +97,7 @@ export const LightTheme = responsiveFontSizes(
           fontFamily: 'Roboto Mono, monospace',
           backgroundColor: primary,
           color: black,
-          fontSize: 11,
+          fontSize: 12,
         },
       },
     },
@@ -118,14 +124,20 @@ export const DarkTheme = responsiveFontSizes(
     typography: {
       fontSize: 16,
       htmlFontSize: 16,
+      h1: {
+        fontWeight: 500,
+      },
       h2: {
+        fontWeight: 500,
+      },
+      h3: {
         fontWeight: 500,
       },
       h5: {
         fontWeight: 500,
         fontFamily: 'Roboto Mono, monospace',
       },
-      body1: {
+      body: {
         fontWeight: 500,
         fontFamily: 'Roboto Mono, monospace',
       },
@@ -183,7 +195,7 @@ export const DarkTheme = responsiveFontSizes(
           fontFamily: 'Roboto Mono, monospace',
           backgroundColor: primary,
           color: white,
-          fontSize: 11,
+          fontSize: 12,
         },
       },
     },

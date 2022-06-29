@@ -5,18 +5,18 @@ import Resume from '../../settings/resume.json';
 
 const useStyles = makeStyles((theme) => ({
   socialIcons: {
-    position: 'absolute',
+    position: 'fixed',
     top: theme.spacing(6),
     right: theme.spacing(6),
   },
   iconButton: {
-    height: '3rem',
-    width: '3rem',
+    height: '2.5rem',
+    width: '2.5rem',
     display: 'block',
     marginBottom: theme.spacing(2),
   },
   icon: {
-    fontSize: '1.75rem',
+    fontSize: '1.25rem',
   },
 }));
 
